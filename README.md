@@ -1,12 +1,9 @@
-# GitHub-AlexaSkill-Hack
+# Top-Github-Repos-Alexa-Skill
 A quick little Alexa skill to read out the top GitHub repos as found on http://gitmostwanted.com/
 
-This project is not guarenteed to work. I've honestly forgotten how to write Alexa skills. The most
-useful thing you can find in this project is a bad parser for the webstie 
-(http://gitmostwanted.com/)[http://gitmostwanted.com/]. Other than that, you won't really find much
-use.
-
-I just wanted to store this project somewhere so I can get it off my harddrive.
+This project is not guarenteed to work and it is unmaintained. Originally it worked as a Alexa
+skill to read off the top projects on GitHub. It uses http://gitmostwanted.com/ as it's source
+of information.
 
 #### Licence
 
